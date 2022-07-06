@@ -1,0 +1,130 @@
+[
+    {
+        "id": "001",
+        "name": "品牌潮鞋",
+        "keywords": [
+            "Nike",
+            "鸿星尔克",
+            "空军一号",
+            "李宁",
+            "回力飞跃",
+            "阿迪达斯"
+        ],
+        "imgUrl": "./images/floor-1-1.jpeg",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门专区"
+            },
+            {
+                "url": "#",
+                "text": "鸿星尔克"
+            },
+            {
+                "url": "#",
+                "text": "回力潮牌"
+            },
+            {
+                "url": "#",
+                "text": "空军一号"
+            },
+            {
+                "url": "#",
+                "text": "阿迪达斯"
+            },
+            {
+                "url": "#",
+                "text": "贵人鸟"
+            },
+            {
+                "url": "#",
+                "text": "李宁潮牌"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "./images/floor-1-b01.jpeg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "./images/floor-1-b02.jpeg"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "./images/floor-1-b03.jpeg"
+            }
+        ],
+        "recommendList": [
+            "./images/floor-1-2.jpeg",
+            "./images/floor-1-3.jpeg",
+            "./images/floor-1-5.jpeg",
+            "./images/floor-1-6.jpeg"
+        ],
+        "bigImg": "./images/floor-1-4.png"
+    },
+    {
+        "id": "002",
+        "name": "AJ专区",
+        "keywords": [
+            "空军一号",
+            "高帮AJ",
+            "低帮空军",
+            "品牌推荐",
+            "特惠潮鞋",
+            "Nick联名"
+        ],
+        "imgUrl": "./images/floor-1-1.jpeg",
+        "navList": [
+            {
+                "url": "#",
+                "text": "空军一号"
+            },
+            {
+                "url": "#",
+                "text": "低帮空军"
+            },
+            {
+                "url": "#",
+                "text": "Nick联名"
+            },
+            {
+                "url": "#",
+                "text": "特惠潮鞋"
+            },
+            {
+                "url": "#",
+                "text": "品牌推荐"
+            },
+            {
+                "url": "#",
+                "text": "鸿星尔克"
+            },
+            {
+                "url": "#",
+                "text": "高端品牌"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "./images/floor-1-b01.jpeg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "./images/floor-1-b02.jpeg"
+            },  
+            {
+                "id": "0013",
+                "imgUrl": "./images/floor-1-b03.jpeg"
+            }
+        ],
+        "recommendList": [
+            "./images/floor-1-2.jpeg",
+            "./images/floor-1-3.jpeg",
+            "./images/floor-1-5.jpeg",
+            "./images/floor-1-6.jpeg"
+        ],
+        "bigImg": "./images/floor-1-4.png"
+    }
+]
